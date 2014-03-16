@@ -1,0 +1,31 @@
+
+NAZRUL HAQUE ATHAR
+201202048
+
+
+---------- Instructions To Play ----------------
+
+1)Bike can turn left by pressing forward arraw key follwed by left arrow key.
+2)One can accelerate bike by pressing up key and apply brakes by down key
+3)Right and Left key tilt the bike and turn it left and right when it is in speed.
+4)Views can be switched by pressing 'v' button.
+5)Press 'ESC' key to exit game.
+6)Execute by typing make and then ./graphics.
+
+
+---------- Features Implemented ----------------
+1) Terrain on which bike can move.
+2) Bike has constant acceleration on pressing up key and deaccelarates when key is left.(Physics)
+2) Bike can tilt(by max 45 degree) and will be balanced by centrifugal force.(Physics)
+3) Rotating tyres.
+4) Bike Structure is a real world model(to be more improved in next phase).
+5) Bike can climb up the mounts.
+6) There are fossils distributed accross the terrain.
+7) Five camera views:
+    a)Driver View
+    b)Wheel View(front mudguard view)
+    c)OverHead View
+    d)Side View(not in pdf)
+    e)Follow Cam
+
+
